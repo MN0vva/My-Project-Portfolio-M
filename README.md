@@ -2,9 +2,8 @@
 <h1>Hi, I'm Max <br/><a href="https://github.com/joshmadakor1">Information Technology</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
 <h2>Certifications:</h2>
-
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/f2a6e2619a4a14e1e979da3558232220)
-
+- [Google IT Support](https://www.coursera.org/account/accomplishments/specialization/certificate/WKT26BJ8X6FX)
 <h2>👨‍💻Academic Cybersecurity and IT Projects:</h2>
 
 - Capstone Project: “InfoSec. Internship”: A semester-long project involving an internship experience, learning various business philosophies, routine management, security methodologies, best practices, theory, information security, access management, policies, & standards. Federal Home Loan Bank of Boston, Summer semester 2023
