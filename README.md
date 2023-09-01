@@ -3,7 +3,8 @@
 
 <h2>Certifications:</h2>
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/f2a6e2619a4a14e1e979da3558232220)
-- [Google IT Support](https://www.coursera.org/account/accomplishments/specialization/certificate/WKT26BJ8X6FX)
+- [Google IT Support](https://coursera.org/share/97af327e22cbc91a13a250f7a66f7aee)
+
 <h2>👨‍💻Academic Cybersecurity and IT Projects:</h2>
 
 - Capstone Project: “InfoSec. Internship”: A semester-long project involving an internship experience, learning various business philosophies, routine management, security methodologies, best practices, theory, information security, access management, policies, & standards. Federal Home Loan Bank of Boston, Summer semester 2023
