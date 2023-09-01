@@ -24,14 +24,13 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Max | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Max | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][x]
+[<img align="left" alt="Max | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][x]
 [<img align="left" alt="Max | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Max | Coursera" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][coursera]
+
 
 [x]: https://twitter.com/NavaaMax
 [youtube]: https://www.youtube.com/channel/UCS_L_cQLDWPNrWS5nKgvkkw
 [linkedin]: https://www.linkedin.com/in/max-navarrette/
-[coursera]: https://www.coursera.org/user/6138440742f9fbc5d78a8202702a4a8c
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
