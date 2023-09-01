@@ -2,6 +2,7 @@
 <h1>Hi, I'm Max <br/><a href="https://github.com/joshmadakor1">Information Technology</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
 <h2>Certifications:</h2>
+
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/f2a6e2619a4a14e1e979da3558232220)
 - [Google IT Support](https://coursera.org/share/97af327e22cbc91a13a250f7a66f7aee)
 
