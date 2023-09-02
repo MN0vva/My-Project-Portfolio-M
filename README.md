@@ -1,5 +1,5 @@
 # My-Project-Portfolio-M
-<h1>Hi, I'm Max <br/><a href="https://github.com/joshmadakor1">Information Technology</a>, <a href="https://www.linkedin.com/in/max-navarrette/" >Cybersecurity Professional</a>
+<h1>Hi, I'm Max <br/><a href="https://github.com/MN0vva>Information Technology</a>, <a href="https://www.linkedin.com/in/max-navarrette/" >Cybersecurity Professional</a>
 
 <h2>Certifications:</h2>
 
