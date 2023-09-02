@@ -18,12 +18,9 @@
 - [Python Gesture Lamp](https://youtube.com/shorts/Fr10d4d7gOI?feature=share): Presented at STEM Expo, Fall 2019. 
 - Hosting a Minecraft Server: Presented at STEM Expo Spring 2019
 
-<h2> 🤳 Connect with me:</h2>
-
 [<img align="left" alt="Max | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Max | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Max | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 [twitter]: https://twitter.com/NavaaMax
 [youtube]: https://www.youtube.com/channel/UCS_L_cQLDWPNrWS5nKgvkkw
