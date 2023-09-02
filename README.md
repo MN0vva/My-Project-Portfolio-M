@@ -13,7 +13,7 @@
 - [Capstone Project](https://drive.google.com/drive/folders/16MkOD5rlSr-XMfuHkmdWPRGeHuDwDWJo?usp=drive_link): “InfoSec. Internship”: Federal Home Loan Bank of Boston, Summer 2023.
 - [OpenPuff Steganography](https://youtu.be/62st1m6ZdW8) Presented at virtual STEM Expo, Fall 2020
 - [SQL Injections Project:](https://docs.google.com/document/d/1tlWyr1jOC-uM2bzqVQ2MlTR3eqBnL6pl/edit?usp=drive_link&ouid=106987420707022229569&rtpof=true&sd=true) Presented findings, Fall 2020. 
-- [Simulation of "My Homw Network"](https://youtu.be/aBRcQ8n086Q): Presented at the virtual STEM Expo, Fall 2021.
+- [Simulation of "My Home Network"](https://youtu.be/aBRcQ8n086Q): Presented at the virtual STEM Expo, Fall 2021.
 - [Building Arch Linux Operating System ](https://youtu.be/QJKEK6ZK0qQ): Presented project at the virual STEM Expo, Spring 2020. [Documentation](https://docs.google.com/document/d/1D0TjRf1TDVt0IW2ZeD9p0c2i9ywsD_GL/edit?usp=drive_link&ouid=106987420707022229569&rtpof=true&sd=true) 
 - [Python Gesture Lamp](https://youtube.com/shorts/Fr10d4d7gOI?feature=share): Presented at STEM Expo, Fall 2019. 
 - Hosting a Minecraft Server: Presented at STEM Expo Spring 2019
