@@ -17,6 +17,7 @@
   
 <h2>Professional Projects:</h2>
 
+- [Botium Toy's Security Audit](https://drive.google.com/drive/folders/1l2nKbANGxhlCV_dwC-RBYzjapnV4t7_r?usp=drive_link)
 
 <h2>Academic Cybersecurity and IT Projects:</h2>
 
