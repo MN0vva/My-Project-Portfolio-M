@@ -12,7 +12,7 @@
 <h2>Certifications:</h2>
 
 - [Google Cybersecurity](https://drive.google.com/file/d/1f3WlpqyPkTP19TskDWppbxWVCZKHLv9i/view?usp=drive_link)
-- [Google IT Support]([https://coursera.org/share/97af327e22cbc91a13a250f7a66f7aee](https://drive.google.com/file/d/1zts1Hi9xj2Yju51Rfu4Vk9PeHWz6QcdC/view?usp=drive_link))
+- [Google IT Support](https://drive.google.com/file/d/1zts1Hi9xj2Yju51Rfu4Vk9PeHWz6QcdC/view?usp=drive_link)
 - [Cisco](https://1drv.ms/f/s!AmHv4hdXHraSgo0Y2MqnYVTSP5Pi_A?e=C9tZXX)
   
 <h2>Professional Projects:</h2>
