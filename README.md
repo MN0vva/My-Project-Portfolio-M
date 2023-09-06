@@ -19,6 +19,7 @@
 
 - [Botium Toy's Security Audit](https://drive.google.com/drive/folders/1l2nKbANGxhlCV_dwC-RBYzjapnV4t7_r?usp=drive_link)
 - [Incident Report Analysis](https://drive.google.com/drive/folders/18B3fYXINTOVxKzrSehsPHlN0zerqQBs3?usp=drive_link)
+- [Generative AI Prompts](https://docs.google.com/document/d/1KLZhtUJTx7ANZH56KP9hA8mmOmEys172/edit?usp=drive_link&ouid=106987420707022229569&rtpof=true&sd=true)
 <h2>Academic Cybersecurity and IT Projects:</h2>
 
 - [Capstone Project](https://drive.google.com/drive/folders/16MkOD5rlSr-XMfuHkmdWPRGeHuDwDWJo?usp=drive_link): “InfoSec. Internship”: Federal Home Loan Bank of Boston, Summer 2023.
