@@ -18,7 +18,7 @@
 <h2>Professional Projects:</h2>
 
 - [Botium Toy's Security Audit](https://drive.google.com/drive/folders/1l2nKbANGxhlCV_dwC-RBYzjapnV4t7_r?usp=drive_link)
-- [Incident Report Analysis](https://drive.google.com/drive/folders/18B3fYXINTOVxKzrSehsPHlN0zerqQBs3?usp=drive_link)
+- [Incident Report Analysis](https://docs.google.com/document/d/1SoNbA3z--pZw5Vq3iuvlxYWwNT85XBtDX4GYH2nmYTM/edit?usp=drive_link&resourcekey=0-PcnovyunbnUgBM00mdnUmg)
 - [Generative AI Prompts](https://docs.google.com/document/d/1KLZhtUJTx7ANZH56KP9hA8mmOmEys172/edit?usp=drive_link&ouid=106987420707022229569&rtpof=true&sd=true)
 <h2>Academic Cybersecurity and IT Projects:</h2>
 
