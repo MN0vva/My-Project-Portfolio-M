@@ -7,7 +7,7 @@
 
 
 
-- [Professional Statement(by Google)](https://docs.google.com/document/d/16rTPcViCdLQWP0R5DigbBzE-Nt2rpGw8-cECMfe1WWA/edit?usp=drive_link)
+- [Professional Statement](https://docs.google.com/document/d/16rTPcViCdLQWP0R5DigbBzE-Nt2rpGw8-cECMfe1WWA/edit?usp=drive_link)
   
 <h2>Certifications:</h2>
 
