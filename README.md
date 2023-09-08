@@ -1,14 +1,10 @@
 # My-Project-Portfolio-M
 
-<h1>Hi, I'm Max <br/><a href="https://github.com/MN0vva" >Information Technology</a>, <a href="https://www.linkedin.com/in/max-navarrette/" >Cybersecurity</a>
-
-
-
-
+<h1>Hi, I'm Max <br/><a href="https://github.com/MN0vva" >Information Technology</a>, <a href="https://www.linkedin.com/in/max-navarrette/" >Cybersecurity</a></h1>
 
 
 - [Professional Statement](https://docs.google.com/document/d/16rTPcViCdLQWP0R5DigbBzE-Nt2rpGw8-cECMfe1WWA/edit?usp=drive_link)
-  
+
 <h2>Certifications:</h2>
 
 - [Google Cybersecurity](https://drive.google.com/file/d/1f3WlpqyPkTP19TskDWppbxWVCZKHLv9i/view?usp=drive_link)
