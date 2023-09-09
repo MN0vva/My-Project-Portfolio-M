@@ -17,6 +17,7 @@
 - [Incident Report Analysis](https://docs.google.com/document/d/1SoNbA3z--pZw5Vq3iuvlxYWwNT85XBtDX4GYH2nmYTM/edit?usp=drive_link&resourcekey=0-PcnovyunbnUgBM00mdnUmg)
 - [Linux Permissions](https://docs.google.com/document/d/1J5JM0UE8fWVfWvplnsRbvQLQL6Say9pJ2Wasl5RVJjo/edit?usp=drive_link&resourcekey=0-QH9MhlXnG2pWnsbuGVImdQ)
 - [SQL Login Attempts and Machines](https://docs.google.com/document/d/1ElctOIK7Jx0QSiu50doQt0o66aUIKECckSedvxzfHUU/edit?usp=sharing&resourcekey=0-GyFN3CBHevRyneH2hl2O5g)
+- [Vulnerability Assessment Report](https://docs.google.com/document/d/1DGTDSMVrPJsgyl2r9uH2uPJJXpntO0G6o_Zcv0IYqOE/edit?usp=drive_link&resourcekey=0-lRCgYKPcFdcBcU6lwDIfyQ)
 - [Cybersecurity Generative AI Prompts](https://docs.google.com/document/d/1KLZhtUJTx7ANZH56KP9hA8mmOmEys172/edit?usp=drive_link&ouid=106987420707022229569&rtpof=true&sd=true)
 <h2>Academic Cybersecurity and IT Projects:</h2>
 
