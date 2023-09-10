@@ -11,7 +11,7 @@
 - [Google IT Support](https://drive.google.com/file/d/1zts1Hi9xj2Yju51Rfu4Vk9PeHWz6QcdC/view?usp=drive_link)
 - [Cisco](https://drive.google.com/drive/folders/1VoHwv3JwsT90DIBSt9hhiop1h4i6vUO5?usp=drive_link)
   
-<h2>Professional Projects:</h2>
+<h2>Google Cybersecurity Projects:</h2>
 
 - [Botium Toy's Security Audit](https://drive.google.com/drive/folders/1l2nKbANGxhlCV_dwC-RBYzjapnV4t7_r?usp=drive_link)
 - [Incident Report Analysis](https://docs.google.com/document/d/1SoNbA3z--pZw5Vq3iuvlxYWwNT85XBtDX4GYH2nmYTM/edit?usp=drive_link&resourcekey=0-PcnovyunbnUgBM00mdnUmg)
