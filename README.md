@@ -19,7 +19,7 @@
 - [SQL Login Attempts and Machines](https://docs.google.com/document/d/1ElctOIK7Jx0QSiu50doQt0o66aUIKECckSedvxzfHUU/edit?usp=sharing&resourcekey=0-GyFN3CBHevRyneH2hl2O5g)
 - [Vulnerability Assessment Report](https://docs.google.com/document/d/1DGTDSMVrPJsgyl2r9uH2uPJJXpntO0G6o_Zcv0IYqOE/edit?usp=drive_link&resourcekey=0-lRCgYKPcFdcBcU6lwDIfyQ)
 - [Cybersecurity Generative AI Prompts](https://docs.google.com/document/d/1KLZhtUJTx7ANZH56KP9hA8mmOmEys172/edit?usp=drive_link&ouid=106987420707022229569&rtpof=true&sd=true)
-<h2>Academic Cybersecurity and IT Projects:</h2>
+<h2>Massbay Cybersecurity and IT Projects:</h2>
 
 - [Capstone Project](https://drive.google.com/drive/folders/16MkOD5rlSr-XMfuHkmdWPRGeHuDwDWJo?usp=drive_link): “InfoSec. Internship”: Federal Home Loan Bank of Boston, Summer 2023.
 - [Simulation of "My Home Network"](https://youtu.be/aBRcQ8n086Q): Presented at the virtual STEM Expo, Fall 2021.
