@@ -15,7 +15,7 @@
 <h2>IBM Cybersecurity Projects:</h2>
 
 - [Creating a Kali Linux Account with Document Encryption](https://docs.google.com/document/d/1LqwHZHw4bjTS326zRkGVm7flKLwgpTyy_4bBOwo9PlE/edit?usp=drive_link)
-- [Scanning Github Repo. Vulnerabilities](https://docs.google.com/document/d/1inS6kmgoHNH79Ex4mwuTu3qOAfxQmvjn5uyg7j65Qkg/edit?usp=drive_link)
+- [Scanning Github Repo. for Vulnerabilities](https://docs.google.com/document/d/1inS6kmgoHNH79Ex4mwuTu3qOAfxQmvjn5uyg7j65Qkg/edit?usp=drive_link)
 - [Capstone Project: Data-Breach Case Study](https://docs.google.com/document/d/1rjiWPwEFeTBumtaJbQa1tWqnpaLTUL0A9ADmjLbG_fA/edit?usp=drive_link)
 <h2>Google Cybersecurity Projects:</h2>
 
