@@ -20,14 +20,12 @@
 <h2>Google Cybersecurity Projects:</h2>
 
 - [Botium Toy's Security Audit](https://drive.google.com/drive/folders/1l2nKbANGxhlCV_dwC-RBYzjapnV4t7_r?usp=drive_link) | [Incident Report Analysis](https://docs.google.com/document/d/1SoNbA3z--pZw5Vq3iuvlxYWwNT85XBtDX4GYH2nmYTM/edit?usp=drive_link&resourcekey=0-PcnovyunbnUgBM00mdnUmg) | [Linux Permissions](https://docs.google.com/document/d/1J5JM0UE8fWVfWvplnsRbvQLQL6Say9pJ2Wasl5RVJjo/edit?usp=drive_link&resourcekey=0-QH9MhlXnG2pWnsbuGVImdQ) 
-- [SQL Login Attempts and Machines](https://docs.google.com/document/d/1ElctOIK7Jx0QSiu50doQt0o66aUIKECckSedvxzfHUU/edit?usp=sharing&resourcekey=0-GyFN3CBHevRyneH2hl2O5g) | [Vulnerability Assessment Report](https://docs.google.com/document/d/1DGTDSMVrPJsgyl2r9uH2uPJJXpntO0G6o_Zcv0IYqOE/edit?usp=drive_link&resourcekey=0-lRCgYKPcFdcBcU6lwDIfyQ)
-- [Incident Documentation ](https://docs.google.com/document/d/10m7HJFKDUvVi29OukOGzx-Yj46t6lsOpEZktXwc9_C0/edit?usp=drive_link&resourcekey=0-nPEj7hEOaoJMtMf751llYg)
+- [SQL Login Attempts and Machines](https://docs.google.com/document/d/1ElctOIK7Jx0QSiu50doQt0o66aUIKECckSedvxzfHUU/edit?usp=sharing&resourcekey=0-GyFN3CBHevRyneH2hl2O5g) | [Vulnerability Assessment Report](https://docs.google.com/document/d/1DGTDSMVrPJsgyl2r9uH2uPJJXpntO0G6o_Zcv0IYqOE/edit?usp=drive_link&resourcekey=0-lRCgYKPcFdcBcU6lwDIfyQ) | [Incident Documentation ](https://docs.google.com/document/d/10m7HJFKDUvVi29OukOGzx-Yj46t6lsOpEZktXwc9_C0/edit?usp=drive_link&resourcekey=0-nPEj7hEOaoJMtMf751llYg)
 <h2>Massbay Cybersecurity and IT Projects:</h2>
 
 - [Capstone Project](https://drive.google.com/drive/folders/16MkOD5rlSr-XMfuHkmdWPRGeHuDwDWJo?usp=drive_link): “InfoSec. Internship”: Federal Home Loan Bank of Boston, Summer 2023.
 - [Simulation of "My Home Network"](https://youtu.be/aBRcQ8n086Q): Presented at the virtual STEM Expo, Fall 2021.
-- [OpenPuff Steganography](https://youtu.be/62st1m6ZdW8) Presented at virtual STEM Expo, Fall 2020
-- [SQL Injections Project:](https://docs.google.com/document/d/1tlWyr1jOC-uM2bzqVQ2MlTR3eqBnL6pl/edit?usp=drive_link&ouid=106987420707022229569&rtpof=true&sd=true) Presented findings, Fall 2020. 
+- [OpenPuff Steganography](https://youtu.be/62st1m6ZdW8) Presented at virtual STEM Expo, Fall 2020 | [SQL Injection Project:](https://docs.google.com/document/d/1tlWyr1jOC-uM2bzqVQ2MlTR3eqBnL6pl/edit?usp=drive_link&ouid=106987420707022229569&rtpof=true&sd=true) Presented findings, Fall 2020. 
 - [Building Arch Linux Operating System ](https://youtu.be/QJKEK6ZK0qQ): Presented project at the virual STEM Expo, Spring 2020. [Documentation](https://docs.google.com/document/d/1D0TjRf1TDVt0IW2ZeD9p0c2i9ywsD_GL/edit?usp=drive_link&ouid=106987420707022229569&rtpof=true&sd=true) 
 - [Python Gesture Lamp](https://youtube.com/shorts/Fr10d4d7gOI?feature=share): Presented at STEM Expo, Fall 2019. 
 - Hosting a Minecraft Server: Presented at STEM Expo Spring 2019
