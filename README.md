@@ -16,6 +16,7 @@
 - [Creating a Kali Linux Account with Document Encryption](https://docs.google.com/document/d/1LqwHZHw4bjTS326zRkGVm7flKLwgpTyy_4bBOwo9PlE/edit?usp=drive_link)
 - [Scanning Github Repo. for Vulnerabilities](https://docs.google.com/document/d/1inS6kmgoHNH79Ex4mwuTu3qOAfxQmvjn5uyg7j65Qkg/edit?usp=drive_link)
 - [Capstone Project: Data-Breach Case Study](https://1drv.ms/p/s!AmHv4hdXHraSgpMGnpFTZoHKptuwvA)
+- [Windows Defender and Firewall]()
 <h2>Google Cybersecurity Projects:</h2>
 
 - [Botium Toy's Security Audit](https://drive.google.com/drive/folders/1l2nKbANGxhlCV_dwC-RBYzjapnV4t7_r?usp=drive_link) | [Incident Report Analysis](https://docs.google.com/document/d/1SoNbA3z--pZw5Vq3iuvlxYWwNT85XBtDX4GYH2nmYTM/edit?usp=drive_link&resourcekey=0-PcnovyunbnUgBM00mdnUmg) | [Linux Permissions](https://docs.google.com/document/d/1J5JM0UE8fWVfWvplnsRbvQLQL6Say9pJ2Wasl5RVJjo/edit?usp=drive_link&resourcekey=0-QH9MhlXnG2pWnsbuGVImdQ) | [SQL Login Attempts and Machines](https://docs.google.com/document/d/1ElctOIK7Jx0QSiu50doQt0o66aUIKECckSedvxzfHUU/edit?usp=sharing&resourcekey=0-GyFN3CBHevRyneH2hl2O5g)
