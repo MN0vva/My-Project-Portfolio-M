@@ -20,7 +20,7 @@
 <h2>Google Cybersecurity Projects:</h2>
 
 - [Botium Toy's Security Audit](https://drive.google.com/drive/folders/1l2nKbANGxhlCV_dwC-RBYzjapnV4t7_r?usp=drive_link) | [Incident Report Analysis](https://docs.google.com/document/d/1SoNbA3z--pZw5Vq3iuvlxYWwNT85XBtDX4GYH2nmYTM/edit?usp=drive_link&resourcekey=0-PcnovyunbnUgBM00mdnUmg) | [Linux Permissions](https://docs.google.com/document/d/1J5JM0UE8fWVfWvplnsRbvQLQL6Say9pJ2Wasl5RVJjo/edit?usp=drive_link&resourcekey=0-QH9MhlXnG2pWnsbuGVImdQ) | [SQL Login Attempts and Machines](https://docs.google.com/document/d/1ElctOIK7Jx0QSiu50doQt0o66aUIKECckSedvxzfHUU/edit?usp=sharing&resourcekey=0-GyFN3CBHevRyneH2hl2O5g)
-- [Vulnerability Assessment Report](https://docs.google.com/document/d/1DGTDSMVrPJsgyl2r9uH2uPJJXpntO0G6o_Zcv0IYqOE/edit?usp=drive_link&resourcekey=0-lRCgYKPcFdcBcU6lwDIfyQ) | [Incident Documentation ](https://docs.google.com/document/d/10m7HJFKDUvVi29OukOGzx-Yj46t6lsOpEZktXwc9_C0/edit?usp=drive_link&resourcekey=0-nPEj7hEOaoJMtMf751llYg)
+- [Vulnerability Assessment Report](https://docs.google.com/document/d/1DGTDSMVrPJsgyl2r9uH2uPJJXpntO0G6o_Zcv0IYqOE/edit?usp=drive_link&resourcekey=0-lRCgYKPcFdcBcU6lwDIfyQ) | [Incident Documentation ](https://docs.google.com/document/d/10m7HJFKDUvVi29OukOGzx-Yj46t6lsOpEZktXwc9_C0/edit?usp=drive_link&resourcekey=0-nPEj7hEOaoJMtMf751llYg) | [Algorithm for file updates in Python](https://docs.google.com/document/d/1l9R0aLt-ykcWrdeTtjhx3m4N9IJU3w3A2ceL8Ns4ejo/edit?usp=sharing&resourcekey=0-RzfjsZlvefNzKqqbJwL0Zw)
 <h2>Massbay Cybersecurity and IT Projects:</h2>
 
 - [Capstone Project](https://drive.google.com/drive/folders/16MkOD5rlSr-XMfuHkmdWPRGeHuDwDWJo?usp=drive_link): “InfoSec. Internship”: Federal Home Loan Bank of Boston, Summer 2023.
