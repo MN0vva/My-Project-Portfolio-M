@@ -13,7 +13,7 @@
 
 <h2>IBM Cybersecurity Projects:</h2>
 
-- [Creating a Kali Linux Account with Document Encryption](https://docs.google.com/document/d/1LqwHZHw4bjTS326zRkGVm7flKLwgpTyy_4bBOwo9PlE/edit?usp=drive_link)
+- [Creating a Kali Linux Account with Encrypted Document](https://docs.google.com/document/d/1LqwHZHw4bjTS326zRkGVm7flKLwgpTyy_4bBOwo9PlE/edit?usp=drive_link)
 - [Scanning Github Repo. for Vulnerabilities](https://docs.google.com/document/d/1inS6kmgoHNH79Ex4mwuTu3qOAfxQmvjn5uyg7j65Qkg/edit?usp=drive_link)
 - [Capstone Project: Data-Breach Case Study](https://1drv.ms/p/s!AmHv4hdXHraSgpMGnpFTZoHKptuwvA)
 - [Windows Defender and Firewall]()
