@@ -7,6 +7,7 @@
 
 <h2>Certifications:</h2>
 
+- [AWS Fundimentals](https://drive.google.com/file/d/1G3eJO65mFAiG7B87SkwyZD1HOYdHXhh1/view?usp=drive_link) | [AWS Cloud Solutions Architect](https://drive.google.com/file/d/1rAOgJtq1tb8C1wr_jleWyMRF8d687hYj/view?usp=drive_link) | [AWS DevOps](https://drive.google.com/file/d/18LIsykwLfiVmY1rve_CKg2f-nnxkZ08F/view?usp=drive_link)
 - [IBM Cybersecurity Analyst](https://www.coursera.org/account/accomplishments/specialization/certificate/FTVWQTMM2AJL)
 - [Google Cybersecurity](https://drive.google.com/file/d/1f3WlpqyPkTP19TskDWppbxWVCZKHLv9i/view?usp=drive_link) | [Google IT Support](https://drive.google.com/file/d/1zts1Hi9xj2Yju51Rfu4Vk9PeHWz6QcdC/view?usp=drive_link) | [Google Data Analytics](https://drive.google.com/file/d/1Yp2XR0myivDN8BsBl4rJaljec6NX3v47/view?usp=drive_link)
 - [Cisco: IT, Networking & Security](https://drive.google.com/drive/folders/1VoHwv3JwsT90DIBSt9hhiop1h4i6vUO5?usp=drive_link)
