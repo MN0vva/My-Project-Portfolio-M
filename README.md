@@ -12,6 +12,8 @@
 - [Google Cybersecurity](https://drive.google.com/file/d/1f3WlpqyPkTP19TskDWppbxWVCZKHLv9i/view?usp=drive_link) | [Google IT Support](https://drive.google.com/file/d/1zts1Hi9xj2Yju51Rfu4Vk9PeHWz6QcdC/view?usp=drive_link) | [Google Data Analytics](https://drive.google.com/file/d/1Yp2XR0myivDN8BsBl4rJaljec6NX3v47/view?usp=drive_link)
 - [Cisco: IT, Networking & Security](https://drive.google.com/drive/folders/1VoHwv3JwsT90DIBSt9hhiop1h4i6vUO5?usp=drive_link)
 
+<h2>Microsoft Cybersecurity Projects:</h2>
+
 <h2>IBM Cybersecurity Projects:</h2>
 
 - [Creating a Kali Linux Account with Encrypted Document](https://docs.google.com/document/d/1LqwHZHw4bjTS326zRkGVm7flKLwgpTyy_4bBOwo9PlE/edit?usp=drive_link) | [Scanning Github Repo. for Vulnerabilities](https://docs.google.com/document/d/1inS6kmgoHNH79Ex4mwuTu3qOAfxQmvjn5uyg7j65Qkg/edit?usp=drive_link)
