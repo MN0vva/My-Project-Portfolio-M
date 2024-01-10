@@ -41,6 +41,6 @@
 [<img align="left" alt="Max | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Max | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/NavaaMax
+[twitter]: https://twitter.com/MNav4gator
 [youtube]: https://www.youtube.com/channel/UCS_L_cQLDWPNrWS5nKgvkkw
 [linkedin]: https://www.linkedin.com/in/max-navarrette/
