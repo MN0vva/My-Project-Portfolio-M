@@ -18,7 +18,7 @@
 <h2>IBM Cybersecurity Projects:</h2>
 
 - [Scanning Github Repo. for Vulnerabilities](https://1drv.ms/w/s!AmHv4hdXHraSgqAfr6S6fYXs8wEeWg?e=39K06c)
-- [Capstone Project: Data-Breach Case Study](https://1drv.ms/p/s!AmHv4hdXHraSgqAb1zIceSJe1hNeEQ?e=WL9wFw) | [Windows Defender and Firewall](https://1drv.ms/w/s!AmHv4hdXHraSgpQG74CJx3KL4uWVjQ?e=lkqnKN) | [Hardening Kali Linux]()
+- [Capstone Project: Data-Breach Case Study](https://1drv.ms/p/s!AmHv4hdXHraSgqAb1zIceSJe1hNeEQ?e=WL9wFw) | [Windows Defender and Firewall](https://1drv.ms/w/s!AmHv4hdXHraSgpQG74CJx3KL4uWVjQ?e=lkqnKN)
 <h2>Google Cybersecurity Projects:</h2>
 
 - [Botium Toy's Security Audit](https://drive.google.com/drive/folders/1l2nKbANGxhlCV_dwC-RBYzjapnV4t7_r?usp=drive_link) | [Incident Report Analysis](https://docs.google.com/document/d/1SoNbA3z--pZw5Vq3iuvlxYWwNT85XBtDX4GYH2nmYTM/edit?usp=drive_link&resourcekey=0-PcnovyunbnUgBM00mdnUmg) | [Linux Permissions](https://docs.google.com/document/d/1J5JM0UE8fWVfWvplnsRbvQLQL6Say9pJ2Wasl5RVJjo/edit?usp=drive_link&resourcekey=0-QH9MhlXnG2pWnsbuGVImdQ) | [SQL Login Attempts and Machines](https://docs.google.com/document/d/1ElctOIK7Jx0QSiu50doQt0o66aUIKECckSedvxzfHUU/edit?usp=sharing&resourcekey=0-GyFN3CBHevRyneH2hl2O5g)
