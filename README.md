@@ -8,9 +8,7 @@
 <h2>Certifications:</h2>
 
 - [AWS Fundimentals](https://coursera.org/share/b576dbbdeec042841807d2f48b33f25f)
-- [IBM Cybersecurity Analyst](https://coursera.org/share/90a8eb569ec20e82b06d652f94fc2168)
-- [Google Cybersecurity](https://coursera.org/share/f2a6e2619a4a14e1e979da3558232220)
-- [Microsoft Cybersecurity Analyst](https://coursera.org/share/3f58169943e76ef7dfad2647bb0d5c9a)
+- [IBM Cybersecurity Analyst](https://coursera.org/share/90a8eb569ec20e82b06d652f94fc2168) | [Google Cybersecurity](https://coursera.org/share/f2a6e2619a4a14e1e979da3558232220) | [Microsoft Cybersecurity Analyst](https://coursera.org/share/3f58169943e76ef7dfad2647bb0d5c9a)
 - [Cisco: IT, Networking & Security](https://1drv.ms/f/s!AmHv4hdXHraSgo0Y2MqnYVTSP5Pi_A?e=3vznAC)
 
 <h2>Microsoft Cybersecurity Projects:</h2>
