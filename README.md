@@ -29,10 +29,6 @@
 - [Building Arch Linux Operating System ](https://youtu.be/QJKEK6ZK0qQ): Presented project at the virual STEM Expo, Spring 2020. [Documentation](https://docs.google.com/document/d/1D0TjRf1TDVt0IW2ZeD9p0c2i9ywsD_GL/edit?usp=drive_link&ouid=106987420707022229569&rtpof=true&sd=true) 
 - [Python Gesture Lamp](https://youtube.com/shorts/Fr10d4d7gOI?feature=share): Presented at STEM Expo, Fall 2019. 
 
-<h2>AI Projects:</h2>
-
-- [Cybersecurity Generative AI Prompts](https://docs.google.com/document/d/1KLZhtUJTx7ANZH56KP9hA8mmOmEys172/edit?usp=drive_link&ouid=106987420707022229569&rtpof=true&sd=true)
-
 [<img align="left" alt="Max | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Max | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Max | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
