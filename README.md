@@ -17,7 +17,7 @@
 
 <h2>IBM Cybersecurity Projects:</h2>
 
-- [Scanning Github Repo. for Vulnerabilities](https://1drv.ms/w/s!AmHv4hdXHraSgqAfr6S6fYXs8wEeWg?e=39K06c) | [Capstone Project: Data-Breach Case Study](https://1drv.ms/p/s!AmHv4hdXHraSgqAb1zIceSJe1hNeEQ?e=WL9wFw) | [Windows Defender and Firewall](https://1drv.ms/w/s!AmHv4hdXHraSgpQG74CJx3KL4uWVjQ?e=lkqnKN)
+- [Scanning Github Repo. for Vulnerabilities](https://1drv.ms/w/s!AmHv4hdXHraSgqAfr6S6fYXs8wEeWg?e=39K06c) | [Capstone Project: Data-Breach Case Study](https://1drv.ms/p/s!AmHv4hdXHraSgqAb1zIceSJe1hNeEQ?e=WL9wFw) | [Comprehensive Database Security and Management](https://1drv.ms/w/s!AmHv4hdXHraSgrMjOtgmju5qs25WYA?e=tehX1f) | [Windows Defender and Firewall](https://1drv.ms/w/s!AmHv4hdXHraSgpQG74CJx3KL4uWVjQ?e=lkqnKN)
 <h2>Google Cybersecurity Projects:</h2>
 
 - [Botium Toy's Security Audit](https://1drv.ms/f/s!AmHv4hdXHraSgqA4BWKH23iOeFZVNg?e=TmHH5b) | [Incident Report Analysis](https://1drv.ms/w/s!AmHv4hdXHraSgqBMXBd2fm4lRIyqgQ?e=9CmBWG) | [Linux Permissions](https://1drv.ms/w/s!AmHv4hdXHraSgqBOVElBqNyw36xKyw?e=AcpmPk) | [SQL Login Attempts and Machines](https://1drv.ms/w/s!AmHv4hdXHraSgqBiWd2riVKFzBfNfg?e=FD86ES)
