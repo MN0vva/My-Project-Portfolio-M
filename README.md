@@ -12,6 +12,7 @@
 - [Cisco: IT, Networking & Security](https://1drv.ms/f/s!AmHv4hdXHraSgo0Y2MqnYVTSP5Pi_A?e=3vznAC)
 
 <h2>Southern New Hampshire University:</h2>
+- [Firewall and Access Control](https://1drv.ms/w/s!AmHv4hdXHraSgrUNJ4GfpYtpnKQwGg?e=bzmdOc)
 
 <h2>Microsoft Cybersecurity Projects:</h2>
 
