@@ -13,7 +13,7 @@
 
 <h2>Southern New Hampshire University:</h2>
 
-- [Firewall and Access Control](https://1drv.ms/w/s!AmHv4hdXHraSgrUNJ4GfpYtpnKQwGg?e=uM2WK7)
+- [Firewall and Access Control](https://1drv.ms/w/s!AmHv4hdXHraSgrUNJ4GfpYtpnKQwGg?e=uM2WK7) | [DMV Network Modifications](https://1drv.ms/w/s!AmHv4hdXHraSgr0I82ZNU6tFryjWUg?e=JydAuH)
 
 <h2>Microsoft Cybersecurity Projects:</h2>
 
