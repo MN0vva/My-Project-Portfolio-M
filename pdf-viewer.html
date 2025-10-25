@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Viewer</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+        .pdf-link {
+            display: inline-block;
+            padding: 12px 24px;
+            background-color: #0366d6;
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+        .pdf-link:hover {
+            background-color: #0256c0;
+        }
+        .pdf-viewer {
+            margin-top: 30px;
+            width: 100%;
+            height: 800px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        .description {
+            margin: 20px 0;
+            color: #666;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>PDF Viewer</h1>
+        <p class="description">
+            Click the button below to open the PDF in a new tab, or view it embedded below.
+        </p>
+        <a href="sample.pdf" target="_blank" rel="noopener noreferrer" class="pdf-link">
+            📄 Open PDF in New Tab
+        </a>
+        <iframe class="pdf-viewer" src="sample.pdf" type="application/pdf">
+            <p>Your browser doesn't support embedded PDFs. 
+            <a href="sample.pdf" target="_blank">Click here to download the PDF</a>.</p>
+        </iframe>
+    </div>
+</body>
+</html>
