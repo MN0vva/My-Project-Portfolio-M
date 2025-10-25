@@ -27,8 +27,7 @@
 
 
 ## Research & Publications:
-- [Neurodiversity Challenges in the Workforce and Cybersecurity](./pdf-viewer.html?file=other/Neurodiversity%20Challenges%20in%20the%20Workforce%20and%20Cybersecurity.pdf) - View the full research paper
-- [Download PDF](./other/Neurodiversity%20Challenges%20in%20the%20Workforce%20and%20Cybersecurity.pdf) - Direct download link
+- [Neurodiversity Challenges in the Workforce and Cybersecurity](./other/Neurodiversity%20Challenges%20in%20the%20Workforce%20and%20Cybersecurity.pdf) View the full research paper by directly downloading.
 
 [<img align="left" alt="Max | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Max | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
