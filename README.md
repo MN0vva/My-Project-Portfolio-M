@@ -23,7 +23,7 @@
 - [OpenPuff Steganography:](https://youtu.be/62st1m6ZdW8) Presented at the MassBay virtual STEM Expo, fall 2020.
 - [SQL Injections Project:](https://1drv.ms/w/c/92b61e5717e2ef61/EWHv4hdXHrYggJL_kAQAAAABIwSAMbcNFqacMMcyazDBkQ?e=dmK9Dd) Fall Semester Course 2020. 
 - [Building Arch Linux Operating System](https://youtu.be/QJKEK6ZK0qQ) | [Documentation](https://1drv.ms/w/c/92b61e5717e2ef61/EUrwYCtezCZPkB3J_iMFREUBwjnfdym6uITyAsQKVTfdcw?e=qUdaB3)
-- [Python Gesture Lamp:](https://www.youtube.com/channel/UCS_L_cQLDWPNrWS5nKgvkkw) Presented at STEM Expo Fall 2019. 
+- [Python Gesture Lamp:](https://youtube.com/shorts/Fr10d4d7gOI?si=reaE0C8zDZB3jFMJ) Presented at STEM Expo Fall 2019. 
 
 
 ## Research & Publications:
