@@ -19,7 +19,12 @@
 - [Vulnerability Assessment Report](https://1drv.ms/w/s!AmHv4hdXHraSgqBmac-vJkrSOzUiFA?e=Q0hulE) | [Incident Documentation ](https://1drv.ms/w/s!AmHv4hdXHraSgqBLMHG52AbqkTPzqw?e=4Pgc5j) | [Algorithm for file updates in Python](https://1drv.ms/w/s!AmHv4hdXHraSgqBSveKFUpiH_JAlMg?e=njeczE)
 
 ## Massbay Cybersecurity and IT Projects:
-- [Capstone Project](https://drive.google.com/drive/folders/16MkOD5rlSr-XMfuHkmdWPRGeHuDwDWJo?usp=drive_link): "InfoSec. Internship": Federal Home Loan Bank of Boston, Summer 2023.
+- [Simulation of “My Home Network”:](https://youtu.be/aBRcQ8n086Q) Presented at the virtual STEM Expo, fall 2021. 
+- [OpenPuff Steganography:](https://youtu.be/62st1m6ZdW8) Presented at the MassBay virtual STEM Expo, fall 2020.
+- [SQL Injections Project:](https://1drv.ms/w/c/92b61e5717e2ef61/EWHv4hdXHrYggJL_kAQAAAABIwSAMbcNFqacMMcyazDBkQ?e=dmK9Dd) Fall Semester Course 2020. 
+- [Building Arch Linux Operating System](https://youtu.be/QJKEK6ZK0qQ) | [Documentation](https://1drv.ms/w/c/92b61e5717e2ef61/EUrwYCtezCZPkB3J_iMFREUBwjnfdym6uITyAsQKVTfdcw?e=qUdaB3)
+- [Python Gesture Lamp:](https://www.youtube.com/channel/UCS_L_cQLDWPNrWS5nKgvkkw) Presented at STEM Expo Fall 2019. 
+
 
 ## Research & Publications:
 - [Neurodiversity Challenges in the Workforce and Cybersecurity](./pdf-viewer.html?file=other/Neurodiversity%20Challenges%20in%20the%20Workforce%20and%20Cybersecurity.pdf) - View the full research paper
