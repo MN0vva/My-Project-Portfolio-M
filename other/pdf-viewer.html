@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Viewer</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --bg-primary: #ffffff;
+            --bg-secondary: #f5f5f5;
+            --text-primary: #333333;
+            --text-secondary: #666666;
+            --border-color: #dddddd;
+            --button-bg: #4CAF50;
+            --button-hover: #45a049;
+            --canvas-bg: #e0e0e0;
+        }
+
+        [data-theme="dark"] {
+            --bg-primary: #1e1e1e;
+            --bg-secondary: #2d2d2d;
+            --text-primary: #e0e0e0;
+            --text-secondary: #a0a0a0;
+            --border-color: #444444;
+            --button-bg: #4CAF50;
+            --button-hover: #45a049;
+            --canvas-bg: #3a3a3a;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            background-color: var(--bg-secondary);
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+            font-size: 2rem;
+        }
+
+        .controls {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 15px;
+        }
+
+        .url-input-group {
+            display: flex;
+            flex: 1;
+            min-width: 300px;
+            gap: 10px;
+        }
+
+        input[type="text"] {
+            flex: 1;
+            padding: 10px;
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            font-size: 14px;
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+        }
+
+        button {
+            padding: 10px 20px;
+            background-color: var(--button-bg);
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: var(--button-hover);
+        }
+
+        button:disabled {
+            background-color: #cccccc;
+            cursor: not-allowed;
+        }
+
+        .nav-controls {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .page-info {
+            padding: 10px 15px;
+            background-color: var(--bg-primary);
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            font-weight: bold;
+        }
+
+        .theme-toggle {
+            background-color: var(--text-secondary);
+        }
+
+        .theme-toggle:hover {
+            background-color: var(--text-primary);
+        }
+
+        #pdf-viewer {
+            background-color: var(--canvas-bg);
+            padding: 20px;
+            border-radius: 8px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 600px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        #pdf-canvas {
+            max-width: 100%;
+            height: auto;
+            box-shadow: 0 0 10px rgba(0,0,0,0.3);
+            background-color: white;
+        }
+
+        .loading-message {
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 18px;
+        }
+
+        .error-message {
+            color: #d32f2f;
+            background-color: #ffebee;
+            padding: 15px;
+            border-radius: 4px;
+            margin-top: 10px;
+            text-align: center;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 10px;
+            }
+
+            h1 {
+                font-size: 1.5rem;
+            }
+
+            .controls {
+                flex-direction: column;
+            }
+
+            .url-input-group {
+                width: 100%;
+                min-width: unset;
+            }
+
+            .nav-controls {
+                width: 100%;
+                flex-wrap: wrap;
+            }
+
+            button {
+                flex: 1;
+                min-width: 80px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>PDF Viewer</h1>
+            <div class="controls">
+                <div class="url-input-group">
+                    <input type="text" id="pdf-url" placeholder="Enter PDF URL..." />
+                    <button id="load-pdf">Load PDF</button>
+                </div>
+                <button class="theme-toggle" id="theme-toggle">Toggle Dark Mode</button>
+            </div>
+            <div class="nav-controls">
+                <button id="prev-page" disabled>Previous</button>
+                <div class="page-info">
+                    <span>Page </span>
+                    <span id="page-num">-</span>
+                    <span> of </span>
+                    <span id="page-count">-</span>
+                </div>
+                <button id="next-page" disabled>Next</button>
+                <button id="zoom-in">Zoom In</button>
+                <button id="zoom-out">Zoom Out</button>
+                <button id="reset-zoom">Reset Zoom</button>
+            </div>
+        </header>
+
+        <div id="pdf-viewer">
+            <div class="loading-message">Enter a PDF URL and click "Load PDF" to begin</div>
+        </div>
+    </div>
+
+    <script>
+        // Initialize PDF.js
+        pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+
+        let pdfDoc = null;
+        let pageNum = 1;
+        let pageRendering = false;
+        let pageNumPending = null;
+        let scale = 1.5;
+        const canvas = document.createElement('canvas');
+        const ctx = canvas.getAttribute('2d');
+        
+        const pdfViewer = document.getElementById('pdf-viewer');
+        const pageNumDisplay = document.getElementById('page-num');
+        const pageCountDisplay = document.getElementById('page-count');
+        const prevButton = document.getElementById('prev-page');
+        const nextButton = document.getElementById('next-page');
+        const pdfUrlInput = document.getElementById('pdf-url');
+        const loadPdfButton = document.getElementById('load-pdf');
+        const themeToggle = document.getElementById('theme-toggle');
+        const zoomInButton = document.getElementById('zoom-in');
+        const zoomOutButton = document.getElementById('zoom-out');
+        const resetZoomButton = document.getElementById('reset-zoom');
+
+        canvas.id = 'pdf-canvas';
+
+        // Theme toggle functionality
+        themeToggle.addEventListener('click', () => {
+            const currentTheme = document.body.getAttribute('data-theme');
+            if (currentTheme === 'dark') {
+                document.body.removeAttribute('data-theme');
+                localStorage.setItem('theme', 'light');
+            } else {
+                document.body.setAttribute('data-theme', 'dark');
+                localStorage.setItem('theme', 'dark');
+            }
+        });
+
+        // Load saved theme preference
+        const savedTheme = localStorage.getItem('theme');
+        if (savedTheme === 'dark') {
+            document.body.setAttribute('data-theme', 'dark');
+        }
+
+        // Render page
+        function renderPage(num) {
+            pageRendering = true;
+            pdfDoc.getPage(num).then(page => {
+                const viewport = page.getViewport({ scale: scale });
+                canvas.height = viewport.height;
+                canvas.width = viewport.width;
+
+                const renderContext = {
+                    canvasContext: canvas.getContext('2d'),
+                    viewport: viewport
+                };
+
+                const renderTask = page.render(renderContext);
+
+                renderTask.promise.then(() => {
+                    pageRendering = false;
+                    if (pageNumPending !== null) {
+                        renderPage(pageNumPending);
+                        pageNumPending = null;
+                    }
+                });
+            });
+
+            pageNumDisplay.textContent = num;
+            updateNavigationButtons();
+        }
+
+        // Queue page rendering
+        function queueRenderPage(num) {
+            if (pageRendering) {
+                pageNumPending = num;
+            } else {
+                renderPage(num);
+            }
+        }
+
+        // Update navigation buttons
+        function updateNavigationButtons() {
+            prevButton.disabled = (pageNum <= 1);
+            nextButton.disabled = (pageNum >= pdfDoc.numPages);
+        }
+
+        // Previous page
+        prevButton.addEventListener('click', () => {
+            if (pageNum <= 1) return;
+            pageNum--;
+            queueRenderPage(pageNum);
+        });
+
+        // Next page
+        nextButton.addEventListener('click', () => {
+            if (pageNum >= pdfDoc.numPages) return;
+            pageNum++;
+            queueRenderPage(pageNum);
+        });
+
+        // Zoom controls
+        zoomInButton.addEventListener('click', () => {
+            scale += 0.25;
+            queueRenderPage(pageNum);
+        });
+
+        zoomOutButton.addEventListener('click', () => {
+            if (scale > 0.5) {
+                scale -= 0.25;
+                queueRenderPage(pageNum);
+            }
+        });
+
+        resetZoomButton.addEventListener('click', () => {
+            scale = 1.5;
+            queueRenderPage(pageNum);
+        });
+
+        // Load PDF
+        function loadPDF(url) {
+            pdfViewer.innerHTML = '<div class="loading-message">Loading PDF...</div>';
+            
+            const loadingTask = pdfjsLib.getDocument(url);
+            
+            loadingTask.promise.then(pdf => {
+                pdfDoc = pdf;
+                pageCountDisplay.textContent = pdf.numPages;
+                pageNum = 1;
+                
+                pdfViewer.innerHTML = '';
+                pdfViewer.appendChild(canvas);
+                
+                renderPage(pageNum);
+            }).catch(error => {
+                console.error('Error loading PDF:', error);
+                pdfViewer.innerHTML = `<div class="error-message">Error loading PDF: ${error.message}. Please check the URL and try again.</div>`;
+            });
+        }
+
+        // Load PDF button click
+        loadPdfButton.addEventListener('click', () => {
+            const url = pdfUrlInput.value.trim();
+            if (url) {
+                loadPDF(url);
+            } else {
+                alert('Please enter a PDF URL');
+            }
+        });
+
+        // Load PDF on Enter key
+        pdfUrlInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                loadPdfButton.click();
+            }
+        });
+
+        // Sample PDF URL (optional - you can uncomment to provide a default)
+        // pdfUrlInput.value = 'https://example.com/sample.pdf';
+    </script>
+</body>
+</html>
